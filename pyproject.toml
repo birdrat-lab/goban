@@ -9,7 +9,7 @@ description = "Go engine and server"
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [
-  { name = "Thomas De Mastri" }
+  { name = "birdrat"}
 ]
 
 # No `packages` key here – that's what caused the error.
